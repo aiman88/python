@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa30a5ab-7b5f-4733-abe9-ebe833f23eaf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UYIdSN1Mrnt6rx1xIgozD8rrvb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.directories">
+    <configuration name="directories" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/directories.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="emoji_converter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/emoji_converter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="helo_world" type="PythonConfigurationType" factoryName="Python">
+      <module name="Introduction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helo_world.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random_dice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_dice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_random" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.directories" />
+        <item itemvalue="Python.random_dice" />
+        <item itemvalue="Python.test_random" />
+        <item itemvalue="Python.random" />
+        <item itemvalue="Python.emoji_converter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa30a5ab-7b5f-4733-abe9-ebe833f23eaf" name="Default Changelist" comment="" />
+      <created>1575527191122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575527191122</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575527318755">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1575527318755" />
+    <state x="753" y="0" key="#weight_converter" timestamp="1575604408066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="753" y="0" key="#weight_converter/0.0.1366.728@0.0.1366.728" timestamp="1575604408066" />
+    <state width="606" height="132" key="GridCell.Tab.0.bottom" timestamp="1575783395991">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="606" height="132" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575783395991" />
+    <state width="606" height="132" key="GridCell.Tab.0.center" timestamp="1575783395990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="606" height="132" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575783395990" />
+    <state width="606" height="132" key="GridCell.Tab.0.left" timestamp="1575783395990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="606" height="132" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575783395990" />
+    <state width="606" height="132" key="GridCell.Tab.0.right" timestamp="1575783395990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="606" height="132" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575783395990" />
+    <state width="606" height="194" key="GridCell.Tab.1.bottom" timestamp="1575693390372">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="606" height="194" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575693390372" />
+    <state width="606" height="194" key="GridCell.Tab.1.center" timestamp="1575693390372">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="606" height="194" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1575693390372" />
+    <state width="606" height="194" key="GridCell.Tab.1.left" timestamp="1575693390372">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="606" height="194" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1575693390372" />
+    <state width="606" height="194" key="GridCell.Tab.1.right" timestamp="1575693390372">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="606" height="194" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1575693390372" />
+    <state x="384" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1575772959771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1575772959771" />
+    <state x="299" y="88" width="670" height="676" key="search.everywhere.popup" timestamp="1575692919715">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="299" y="88" width="670" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1575692919715" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/emoji_converter.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/random.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
